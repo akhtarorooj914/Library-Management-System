@@ -1,0 +1,161 @@
+/*---------Main code index-------*/
+
+body {
+    height: 808px;
+    margin: 0px;
+}
+
+.wrapper {
+    height: 808px;
+    width: 1440px;
+    background-color: rgba(189, 140, 81, 0.822);
+}
+
+header {
+    margin: 0px;
+    height: 110px;
+    width: 1440px;
+    background-color: rgba(189, 140, 81, 0.822);
+}
+
+section {
+    margin-top: 0px;
+    height: 630px;
+    width: 1440px;
+    background-color: rgba(189, 140, 81, 0.822);
+    /* background-image: url(images/1\ \(13\)\ n.jpg)*/
+}
+
+section .sec_img {
+    margin-top: 0px;
+    height: 630px;
+    width: 1440px;
+    background-image: url(images/1\ \(13\)\ n.jpg);
+}
+
+.box {
+    height: 280px;
+    width: 400px;
+    background-color: rgba(128, 97, 67, 0.822);
+    margin: 0px auto;
+    opacity: .6;
+    border-radius: 10%;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(65, 32, 13);
+}
+
+footer {
+    height: 68px;
+    width: 1440px;
+    background-color: rgba(189, 140, 81, 0.822);
+    margin: 0px;
+    border: 0px;
+    float: right;
+}
+
+footer p {
+    font-size: large;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: rgba(110, 61, 1, 0.952);
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: large;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    height: 100px;
+    width: 140px;
+    border-radius: 42%;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+
+.logo h1 {
+    float: right;
+    line-height: 80px;
+}
+
+li a {
+    color: rgba(110, 61, 1, 0.952);
+    text-decoration: none;
+    padding: 10px;
+    font-style: bold;
+}
+
+nav {
+    float: right;
+    word-spacing: 0px;
+}
+
+nav li {
+    display: inline-block;
+    line-height: 90px;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+/*----------------------MEMBER LOGIN-----------------------*/
+
+.only_nav {
+    height: 808px;
+    width: 1440px;
+}
+
+.bg2 {
+    height: 698px;
+    width: 1440px;
+    background-color: rgb(65, 32, 13);
+    background-image: url("images/1\ \(8\)n.jpg");
+}
+
+div .login {
+    float: initial;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    height: 520px;
+    width: 480px;
+    border-radius: 10%;
+    margin: auto;
+    background-color: rgba(155, 139, 124, 0.822);
+    opacity: .75;
+    color: rgb(65, 32, 13);
+}
+
+div .memsignup {
+    float: initial;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    background-color: rgba(155, 139, 124, 0.822);
+    opacity: .75;
+    color: rgb(65, 32, 13);
+}
+
+div .adsignup {
+    float: initial;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    background-color: rgba(155, 139, 124, 0.822);
+    opacity: .75;
+    color: rgb(65, 32, 13);
+}
