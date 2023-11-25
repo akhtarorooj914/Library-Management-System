@@ -59,8 +59,13 @@ It contain four tables
 <img width="1080" alt="d" src="https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/175f9e4a-9d2d-4dc4-8f18-8729b8b8ae10">
 <img width="1079" alt="c" src="https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/eada3b00-0e28-42c2-ae30-c8187e0a131d">
 <img width="1080" alt="b" src="https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/b7cf691e-b72c-4e16-b356-316f9ccdcaa6">
+
+
 <img width="1073" alt="a" src="https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/0c2bd1be-58f3-4903-b53d-3cede8c3c2d7">
 
 
+![class diagram1](https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/cdd2489f-da18-4c91-aba7-a4fea6f04d21)
+![DFD1](https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/2dd38712-8b1d-4cb5-8289-217c9d9dd568)
+![uml sequence diagram for library mgmt returning book](https://github.com/akhtarorooj914/Library-Management-System/assets/101574230/ca71a2ab-c664-4931-adfb-f351acf6c1cb)
 
 
